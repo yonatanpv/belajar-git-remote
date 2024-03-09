@@ -1,1 +1,2 @@
 ini dari file 5
+ini adalah perubahan dari file 5 fitur/c (squash)
