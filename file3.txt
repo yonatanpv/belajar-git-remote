@@ -1,2 +1,3 @@
 ini dari file 3
 menambahkan file 2 dari fitur b commit 2
+ini fitu 3
